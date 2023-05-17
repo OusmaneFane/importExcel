@@ -51,5 +51,6 @@ class Data extends Model
         'tfp',
         'tej',
         'tl',
+        'assurance_maldie'
     ];
 }
